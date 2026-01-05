@@ -50,3 +50,4 @@ O notebook listou as 5 principais plataformas para coleta de dados estatísticos
 ## 👤 Autor
 Curadoria e análise de dados geradas por **João Vitor Vargas Martins**.
 *Processado via Google NotebookLM.*
+https://notebooklm.google.com/notebook/73ca5869-0890-4b49-ba38-a17d924e4637
